@@ -68,7 +68,7 @@ class CountDownTimer {
   void startTimer() {
     if (_time.inSeconds > 0) {
       this._isActive = true;
-      // this.startWork();
+      this.startWork();
     }
   }
 
