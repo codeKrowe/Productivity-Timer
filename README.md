@@ -1,6 +1,6 @@
-# productivity_timer
+# Productivity Timer
 
-time tracker
+A flutter based productivity time tracker
 
 ## Getting Started
 
